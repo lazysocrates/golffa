@@ -1,0 +1,1 @@
+import{_ as s,g as e,J as c,y as _,C as n,B as r,K as l}from"./BOKA_KQ_.js";const p={};function f(o,d){const t=e("v-main"),a=e("v-app");return _(),c(a,null,{default:n(()=>[r(t,null,{default:n(()=>[l(o.$slots,"default")]),_:3})]),_:3})}const u=s(p,[["render",f]]);export{u as default};

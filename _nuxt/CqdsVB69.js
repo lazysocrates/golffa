@@ -1,0 +1,1 @@
+import{d as a,x as t,y as o,z as n,_ as s}from"./BOKA_KQ_.js";const r=a({__name:"index",setup(_){return(l,e)=>(o(),t("div",null,e[0]||(e[0]=[n("h2",null,"랜덤 팀 편성 페이지",-1),n("p",null,"여기는 블랭크 레이아웃이 적용된 페이지입니다.",-1)])))}}),d=s(r,[["__scopeId","data-v-1ba76b1a"]]);export{d as default};
